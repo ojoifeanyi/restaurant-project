@@ -10,8 +10,7 @@ function Home() {
 About
             </h1>
             <p>
-Zeppto enables express checkout on your e-commerce with no code.
-Activate with 
+This Is About
             </p>
             <Button />
         </div>
