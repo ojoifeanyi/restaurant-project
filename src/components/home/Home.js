@@ -1,23 +1,23 @@
 import React from 'react'
 import './style.css';
 import Button from '../button/Button';
-import illustration from './images/illustration.jpg';
+import food from './images/food.jpg';
 function Home() {
   return (
     <div className='wrapper'>
         <div className='cta'>
             <h1>
-Boost Sales with the mobile express checkout
+            Restaurant, Sports Bar & Karaoke
             </h1>
             <p>
-Zeppto enables express checkout on your e-commerce with no code.
-Activate with 
+            Drelax with your family and loved ones, 
+            or better still have a brief meeting with colleagues and friends.
             </p>
             <Button />
         </div>
 
         <div className='cta-illustration'>
-        <img src={illustration} alt='img'/>
+        <img className='im' src={food} alt='img'/>
         </div>
         
         </div>

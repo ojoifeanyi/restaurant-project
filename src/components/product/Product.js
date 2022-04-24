@@ -1,13 +1,13 @@
 import React from 'react'
 import './style.css';
-function About() {
+function Product() {
   return (
     <div>
             <h1 className='cen'>
-          About Us
+         Products
             </h1>
         </div>
   )
 }
 
-export default About ;
+export default Product ;

@@ -3,7 +3,7 @@ import './button.css';
 function Button() {
   return (
     <div>
-      <button>Install tag</button>
+      <button>Order Now</button>
     </div>
   )
 }
