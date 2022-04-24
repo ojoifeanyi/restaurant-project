@@ -13,7 +13,7 @@ function Home() {
             Drelax with your family and loved ones, 
             or better still have a brief meeting with colleagues and friends.
             </p>
-            <Button />
+            <Button props={"Order Now"}/>
         </div>
 
         <div className='cta-illustration'>

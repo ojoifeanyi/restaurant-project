@@ -9,12 +9,12 @@ function Navbar() {
    
     <div className="navbar-wrapper">
        <div className="logo-container">
-           <span> <Link to='/home' className='activelink'>TOPPERS</Link></span>
+           <span> <Link to='/' className='activelink'>TOPPERS</Link></span>
        </div>
       
        <div className='link'>
            <ul>
-               <li>  <Link to='/home' className='activelink'>Home</Link></li>
+               <li>  <Link to='/' className='activelink'>Home</Link></li>
                <li>
                <Link to='/about' className='activelink'>About</Link>
                  </li>

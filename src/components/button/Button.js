@@ -1,9 +1,9 @@
 import React from 'react'
 import './button.css';
-function Button() {
+function Button({props}) {
   return (
     <div>
-      <button>Order Now</button>
+      <button>{props}</button>
     </div>
   )
 }
