@@ -1,9 +1,10 @@
 import React from 'react'
 import './button.css';
+import {Link} from 'react-router-dom';
 function Navbutton() {
   return (
     <div>
-         <button>Contact Us</button>
+        <Link to='/contact' className='activelink'>  <button>Contact Us</button></Link>
     </div>
   )
 }
