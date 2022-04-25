@@ -7,7 +7,7 @@ function Home() {
     <div className='wrapper'>
         <div className='cta'>
             <h1>
-            Restaurant, Sports Bar & Karaoke
+            Restaurant, Bar & Karaoke
             </h1>
             <p>
             Drelax with your family and loved ones, 
