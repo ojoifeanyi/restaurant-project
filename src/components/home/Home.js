@@ -17,7 +17,7 @@ function Home() {
         </div>
 
         <div className='cta-illustration'>
-        <img className='im' src={food} alt='img'/>
+        <img className='imm' src={food} alt='img'/>
         </div>
         
         </div>
