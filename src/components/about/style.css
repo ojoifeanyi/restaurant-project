@@ -15,6 +15,16 @@
     font-weight: 500;
     font-size: 16px;
 }
+.text p{
+    font-size:18px;
+    font-weight: 500;
+    width:340px;
+    font-family: 'Poppins', sans-serif;
+    opacity: 0.6; 
+    margin:20px 0;
+    line-height: 1.8;
+
+}
 
 .aboutimages{
     width: 250px;
@@ -32,3 +42,26 @@
     justify-content: space-between; 
     padding: 20px;
 }
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+    .aboutimages {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+    .wrapper1 {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+      }
+      p{
+        font-size:18px;
+        font-weight: 500;
+        width:auto;
+        font-family: 'Poppins', sans-serif;
+        opacity: 0.6; 
+        margin:20px 0;
+        line-height: 1.8;
+      }
+  }
