@@ -7,7 +7,7 @@ function Home() {
     <div className='wrapper'>
         <div className='cta'>
             <h1>
-            Restaurant, Sports Bar & Karaoke
+            Restaurant, Bar & Karaoke
             </h1>
             <p>
             Relaxing with your family and loved ones, 
@@ -18,7 +18,7 @@ function Home() {
         </div>
 
         <div className='cta-illustration'>
-        <img className='im' src={food} alt='img'/>
+        <img className='imm' src={food} alt='img'/>
         </div>
         
         </div>
