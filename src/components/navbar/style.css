@@ -53,7 +53,7 @@ padding:8px 22px !important;
         color:#fc3903;
         font-weight: 600;
         text-transform: capitalize;
-        font-size:14px;
+        font-size:10px;
     }
     
     .link ul li{
@@ -64,7 +64,7 @@ padding:8px 22px !important;
         visibility:hidden;
     }
     .logo-container span{
-        font-size:25px;
+        font-size:10px;
         font-family: 'Poppins', sans-serif;
         color:#fc3903;
         }
@@ -73,7 +73,7 @@ padding:8px 22px !important;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 10px 40px;
+            padding: 10px 10px;
         
         }
     
