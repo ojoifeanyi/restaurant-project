@@ -21,7 +21,21 @@ function Navbar() {
                <li>  <Link to='/product' className='activelink'>Products</Link></li>
                <li><Navbutton /></li>
            </ul>
-          
+       </div>
+
+       <div> 
+       <div className='link-mobile-show'>
+           <ul>
+               <li>  <Link to='/' className='activelink'>Home</Link></li>
+               <li>
+               <Link to='/about' className='activelink'>About</Link>
+                 </li>
+               <li>  <Link to='/product' className='activelink'>Products</Link></li>
+               <li>  <Link to='/contact' className='activelink'>Contact</Link></li>
+             
+           </ul>
+       </div>
+       
        </div>
         </div>
        
