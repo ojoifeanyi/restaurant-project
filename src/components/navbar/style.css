@@ -38,3 +38,52 @@ color:white !important;
 border-radius:5px;
 padding:8px 22px !important;
 }
+
+.link-mobile-show ul li{
+    display: none;
+}
+
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+   
+    .link-mobile-show ul li{
+        display:inline-block;
+        padding:10px;
+        color:#fc3903;
+        font-weight: 600;
+        text-transform: capitalize;
+        font-size:14px;
+    }
+    
+    .link ul li{
+        display:none;
+    }
+
+    .inp{
+        visibility:hidden;
+    }
+    .logo-container span{
+        font-size:25px;
+        font-family: 'Poppins', sans-serif;
+        color:#fc3903;
+        }
+
+        .navbar-wrapper{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 40px;
+        
+        }
+    
+
+    }
+
+
+
+
+
+
+
+    
