@@ -10,8 +10,9 @@ function Home() {
             Restaurant, Bar & Karaoke
             </h1>
             <p>
-            Drelax with your family and loved ones, 
-            or better still have a brief meeting with colleagues and friends.
+            Relaxing with your family and loved ones, 
+            or having a brief meeting with colleagues and friends? 
+            
             </p>
             <Button props={"Order Now"}/>
         </div>
